@@ -1,0 +1,14 @@
+C:\3RD YEAR\Application Development\Workshop 2\Task 3\bin\Debug\net10.0\Task 3.exe
+C:\3RD YEAR\Application Development\Workshop 2\Task 3\bin\Debug\net10.0\Task 3.deps.json
+C:\3RD YEAR\Application Development\Workshop 2\Task 3\bin\Debug\net10.0\Task 3.runtimeconfig.json
+C:\3RD YEAR\Application Development\Workshop 2\Task 3\bin\Debug\net10.0\Task 3.dll
+C:\3RD YEAR\Application Development\Workshop 2\Task 3\bin\Debug\net10.0\Task 3.pdb
+C:\3RD YEAR\Application Development\Workshop 2\Task 3\obj\Debug\net10.0\Task 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\3RD YEAR\Application Development\Workshop 2\Task 3\obj\Debug\net10.0\Task 3.AssemblyInfoInputs.cache
+C:\3RD YEAR\Application Development\Workshop 2\Task 3\obj\Debug\net10.0\Task 3.AssemblyInfo.cs
+C:\3RD YEAR\Application Development\Workshop 2\Task 3\obj\Debug\net10.0\Task 3.csproj.CoreCompileInputs.cache
+C:\3RD YEAR\Application Development\Workshop 2\Task 3\obj\Debug\net10.0\Task 3.dll
+C:\3RD YEAR\Application Development\Workshop 2\Task 3\obj\Debug\net10.0\refint\Task 3.dll
+C:\3RD YEAR\Application Development\Workshop 2\Task 3\obj\Debug\net10.0\Task 3.pdb
+C:\3RD YEAR\Application Development\Workshop 2\Task 3\obj\Debug\net10.0\Task 3.genruntimeconfig.cache
+C:\3RD YEAR\Application Development\Workshop 2\Task 3\obj\Debug\net10.0\ref\Task 3.dll
